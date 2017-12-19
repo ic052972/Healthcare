@@ -3,7 +3,7 @@ Healthcare and its impact population health
 
 Population health in the US.
 
-        - Defined as the health outcomes of a group of individuals, including the distribution of such outcomes within the group. In this case the geographical area is the United States. 
+   - Defined as the health outcomes of a group of individuals, including the distribution of such outcomes within the group. In this case the geographical area is the United States. 
 
 Pplulation health in the State of Utah. 
 
