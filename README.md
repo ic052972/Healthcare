@@ -11,7 +11,7 @@ Population health in the workplace.
 
 Population health in the educational system
 
-  - Day Cares
+  - Day Care
   
   - Kindergarden
   
